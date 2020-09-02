@@ -1,0 +1,14 @@
+http://google.com/
+http://www.google.com/
+https://www.google.com.bd/search?q=google.com
+https://www.google.com.bd/search?q=google.com
+http://google.com/
+http://google.com/
+http://google.com/
+http://www.google.com/
+https://www.google.com.bd/search?q=bangladesh
+https://www.google.com.bd/search?q=bangladesh
+https://www.google.com.bd/search?q=bangladesh
+http://www.google.com/
+http://www.google.com/
+https://www.google.com.bd/search?q=bangladesh
